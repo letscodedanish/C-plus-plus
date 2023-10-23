@@ -40,5 +40,4 @@ int main( ){
 }
 
 
-/////////////////////////////  USER DESIGNED STATIC ARRAY IS A BAD PRACTICE SINCE STATIC ARRAY IS CONTIGUOUS AND UTILIZES MEMORY IN THE REAL TIME ///////////////////////////////////
- 
+
